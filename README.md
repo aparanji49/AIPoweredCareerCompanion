@@ -1,7 +1,7 @@
 # AIPoweredCareerCompanion - Capstone Project
 A cloud-native platform for LaTeX resume tailoring and job tracking with AI-driven feedback, handling concurrent requests with a multi-agent backend architecture.
 
-Demo Link: [!https://youtu.be/53r2L1NYU-U]
+Demo Link: [https://youtu.be/53r2L1NYU-U]
 
 ## About Project
 Project: AI-Powered-Career-Companion: One-Stop Solution for Tailored Resumes and Job Tracking
